@@ -1,2 +1,2 @@
-# Network-Analytics
-This repository is composed of 4 small projects done during the course of Network analytics of EPFL.
+# nicolaslesimple_private
+This is your private repository for turning in assignments and the midterm project.
